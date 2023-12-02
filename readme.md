@@ -1,4 +1,4 @@
-Task and Projects management app 
+Task and Projects management app for teams
 ![Alt text](image-10.png)
 ![Alt text](image-7.png)
 ![Alt text](image-3.png)
